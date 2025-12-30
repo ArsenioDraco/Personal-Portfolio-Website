@@ -1,1 +1,7 @@
-
+* {margin: 0; padding: 0; box-sizing: border-box;}
+        html {scroll-behavior: smooth;}
+        body {font-family: 'Roboto', sans-serif; background-color: #0a0a0a; color: #fff;}
+        header {position: fixed; width: 100%; top: 0; left: 0; background: rgba(10, 10, 10, 0.95); padding: 1rem 3rem; display: flex; justify-content: space-between; align-items: center; z-index: 1000; border-bottom: 1px solid #333;}
+        header h1 {font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 1.8rem; color: #fff;}
+        nav a {color: #fff; text-decoration: none; margin-left: 2rem; font-weight: 500; transition: color 0.3s;}
+        nav a:hover {color: #ff4757;}
