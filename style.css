@@ -5,3 +5,9 @@
         header h1 {font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 1.8rem; color: #fff;}
         nav a {color: #fff; text-decoration: none; margin-left: 2rem; font-weight: 500; transition: color 0.3s;}
         nav a:hover {color: #ff4757;}
+.hero {height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 0 2rem; background: linear-gradient(135deg, #1f1f1f, #0a0a0a);}
+        .hero h2 {font-family: 'Montserrat', sans-serif; font-size: 3rem; margin-bottom: 1rem; color: #ff6b81;}
+        .hero h3 {font-weight: 400; font-size: 1.5rem; color: #aaa;}
+        section {padding: 6rem 3rem; max-width: 1200px; margin: 0 auto;}
+        .section-title {font-family: 'Montserrat', sans-serif; font-size: 2.5rem; color: #ff6b81; margin-bottom: 2rem; text-align: center;}
+        .projects, .skills {display: grid; gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));}
