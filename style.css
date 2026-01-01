@@ -15,3 +15,8 @@
         .project-card:hover {transform: translateY(-10px); box-shadow: 0 10px 20px rgba(255, 71, 87, 0.4);}
         .project-card h4 {font-size: 1.5rem; color: #ff6b81; margin-bottom: 1rem;}
         .project-card p {color: #aaa; line-height: 1.5;}
+.skills div {background-color: #1a1a1a; border-radius: 12px; padding: 1rem; text-align: center; font-weight: 500;}
+        footer {text-align: center; padding: 3rem 1rem; border-top: 1px solid #333; margin-top: 3rem; color: #aaa;}
+        .contact a {color: #ff6b81; text-decoration: none; margin: 0 1rem; font-weight: 500;}
+        .contact a:hover {color: #fff;}
+        .typed-cursor {color: #ff6b81; font-weight: 700;}
