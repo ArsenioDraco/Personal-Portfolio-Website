@@ -76,8 +76,6 @@ I welcome professional inquiries, collaborations, and career opportunities. You 
 
 Email: arseniodraco@yahoo.com
 
-LinkedIn: linkedin.com/in/arseniodraco
-
 GitHub: https://github.com/arseniodraco
 
 This portfolio functions as both a showcase of my work and a professional representation of who I am as a developer. It reflects my skills, approach to problem-solving, and the range of projects I have undertaken — a comprehensive presentation for anyone reviewing my capabilities or considering collaboration.
